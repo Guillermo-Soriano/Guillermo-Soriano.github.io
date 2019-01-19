@@ -12,3 +12,22 @@ h2{
 	color: yellow;
 	font-style: italic;
 }
+
+h3{
+	color: yellow;
+    font-style: italic
+}    
+
+ul{
+	color: red;
+}
+
+h4{
+	color: lime;
+	font-style: italic;
+}
+
+h5{
+	color: lime;
+	font-style: bold;
+}
